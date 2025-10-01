@@ -15,8 +15,7 @@ text_lose = font.render(
         )
 
 
-
-
+#крч привет мабой
 
 score = 0
             
